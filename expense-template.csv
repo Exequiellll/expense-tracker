@@ -1,0 +1,4 @@
+Date,Category,Description,Amount,Month,Year
+2026-02-01,Food,Team lunch at cafe,85.50,=TEXT(A2,"MMMM"),=YEAR(A2)
+2026-02-02,Supplies,Office printer paper,25.99,=TEXT(A3,"MMMM"),=YEAR(A3)
+2026-02-03,Travel,Taxi to client meeting,42.00,=TEXT(A4,"MMMM"),=YEAR(A4)
